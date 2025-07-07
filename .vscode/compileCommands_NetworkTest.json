@@ -1,0 +1,106 @@
+[
+	{
+		"file": "/home/lorenzo/Documents/Unreal Projects/NetworkTest/Source/NetworkTest/NetworkTest.Build.cs",
+		"arguments": [
+			"/home/lorenzo/Epic/UnrealEngine/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v23_clang-18.1.0-rockylinux8/x86_64-unknown-linux-gnu/bin/clang++",
+			"@/home/lorenzo/Documents/Unreal Projects/NetworkTest/.vscode/compileCommands_NetworkTest/NetworkTest.1.rsp"
+		],
+		"directory": "/home/lorenzo/Epic/UnrealEngine/Engine/Source"
+	},
+	{
+		"file": "/home/lorenzo/Documents/Unreal Projects/NetworkTest/Source/NetworkTest/NetworkTest.cpp",
+		"arguments": [
+			"/home/lorenzo/Epic/UnrealEngine/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v23_clang-18.1.0-rockylinux8/x86_64-unknown-linux-gnu/bin/clang++",
+			"@/home/lorenzo/Documents/Unreal Projects/NetworkTest/.vscode/compileCommands_NetworkTest/NetworkTest.1.rsp"
+		],
+		"directory": "/home/lorenzo/Epic/UnrealEngine/Engine/Source"
+	},
+	{
+		"file": "/home/lorenzo/Documents/Unreal Projects/NetworkTest/Source/NetworkTest/NetworkTest.h",
+		"arguments": [
+			"/home/lorenzo/Epic/UnrealEngine/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v23_clang-18.1.0-rockylinux8/x86_64-unknown-linux-gnu/bin/clang++",
+			"@/home/lorenzo/Documents/Unreal Projects/NetworkTest/.vscode/compileCommands_NetworkTest/NetworkTest.1.rsp"
+		],
+		"directory": "/home/lorenzo/Epic/UnrealEngine/Engine/Source"
+	},
+	{
+		"file": "/home/lorenzo/Documents/Unreal Projects/NetworkTest/Source/NetworkTest/NetworkTestCharacter.cpp",
+		"arguments": [
+			"/home/lorenzo/Epic/UnrealEngine/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v23_clang-18.1.0-rockylinux8/x86_64-unknown-linux-gnu/bin/clang++",
+			"@/home/lorenzo/Documents/Unreal Projects/NetworkTest/.vscode/compileCommands_NetworkTest/NetworkTest.1.rsp"
+		],
+		"directory": "/home/lorenzo/Epic/UnrealEngine/Engine/Source"
+	},
+	{
+		"file": "/home/lorenzo/Documents/Unreal Projects/NetworkTest/Source/NetworkTest/NetworkTestCharacter.h",
+		"arguments": [
+			"/home/lorenzo/Epic/UnrealEngine/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v23_clang-18.1.0-rockylinux8/x86_64-unknown-linux-gnu/bin/clang++",
+			"@/home/lorenzo/Documents/Unreal Projects/NetworkTest/.vscode/compileCommands_NetworkTest/NetworkTest.1.rsp"
+		],
+		"directory": "/home/lorenzo/Epic/UnrealEngine/Engine/Source"
+	},
+	{
+		"file": "/home/lorenzo/Documents/Unreal Projects/NetworkTest/Source/NetworkTest/NetworkTestGameMode.cpp",
+		"arguments": [
+			"/home/lorenzo/Epic/UnrealEngine/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v23_clang-18.1.0-rockylinux8/x86_64-unknown-linux-gnu/bin/clang++",
+			"@/home/lorenzo/Documents/Unreal Projects/NetworkTest/.vscode/compileCommands_NetworkTest/NetworkTest.1.rsp"
+		],
+		"directory": "/home/lorenzo/Epic/UnrealEngine/Engine/Source"
+	},
+	{
+		"file": "/home/lorenzo/Documents/Unreal Projects/NetworkTest/Source/NetworkTest/NetworkTestGameMode.h",
+		"arguments": [
+			"/home/lorenzo/Epic/UnrealEngine/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v23_clang-18.1.0-rockylinux8/x86_64-unknown-linux-gnu/bin/clang++",
+			"@/home/lorenzo/Documents/Unreal Projects/NetworkTest/.vscode/compileCommands_NetworkTest/NetworkTest.1.rsp"
+		],
+		"directory": "/home/lorenzo/Epic/UnrealEngine/Engine/Source"
+	},
+	{
+		"file": "/home/lorenzo/Documents/Unreal Projects/NetworkTest/Source/NetworkTest/NetworkTestPickUpComponent.cpp",
+		"arguments": [
+			"/home/lorenzo/Epic/UnrealEngine/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v23_clang-18.1.0-rockylinux8/x86_64-unknown-linux-gnu/bin/clang++",
+			"@/home/lorenzo/Documents/Unreal Projects/NetworkTest/.vscode/compileCommands_NetworkTest/NetworkTest.1.rsp"
+		],
+		"directory": "/home/lorenzo/Epic/UnrealEngine/Engine/Source"
+	},
+	{
+		"file": "/home/lorenzo/Documents/Unreal Projects/NetworkTest/Source/NetworkTest/NetworkTestPickUpComponent.h",
+		"arguments": [
+			"/home/lorenzo/Epic/UnrealEngine/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v23_clang-18.1.0-rockylinux8/x86_64-unknown-linux-gnu/bin/clang++",
+			"@/home/lorenzo/Documents/Unreal Projects/NetworkTest/.vscode/compileCommands_NetworkTest/NetworkTest.1.rsp"
+		],
+		"directory": "/home/lorenzo/Epic/UnrealEngine/Engine/Source"
+	},
+	{
+		"file": "/home/lorenzo/Documents/Unreal Projects/NetworkTest/Source/NetworkTest/NetworkTestProjectile.cpp",
+		"arguments": [
+			"/home/lorenzo/Epic/UnrealEngine/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v23_clang-18.1.0-rockylinux8/x86_64-unknown-linux-gnu/bin/clang++",
+			"@/home/lorenzo/Documents/Unreal Projects/NetworkTest/.vscode/compileCommands_NetworkTest/NetworkTest.1.rsp"
+		],
+		"directory": "/home/lorenzo/Epic/UnrealEngine/Engine/Source"
+	},
+	{
+		"file": "/home/lorenzo/Documents/Unreal Projects/NetworkTest/Source/NetworkTest/NetworkTestProjectile.h",
+		"arguments": [
+			"/home/lorenzo/Epic/UnrealEngine/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v23_clang-18.1.0-rockylinux8/x86_64-unknown-linux-gnu/bin/clang++",
+			"@/home/lorenzo/Documents/Unreal Projects/NetworkTest/.vscode/compileCommands_NetworkTest/NetworkTest.1.rsp"
+		],
+		"directory": "/home/lorenzo/Epic/UnrealEngine/Engine/Source"
+	},
+	{
+		"file": "/home/lorenzo/Documents/Unreal Projects/NetworkTest/Source/NetworkTest/NetworkTestWeaponComponent.cpp",
+		"arguments": [
+			"/home/lorenzo/Epic/UnrealEngine/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v23_clang-18.1.0-rockylinux8/x86_64-unknown-linux-gnu/bin/clang++",
+			"@/home/lorenzo/Documents/Unreal Projects/NetworkTest/.vscode/compileCommands_NetworkTest/NetworkTest.1.rsp"
+		],
+		"directory": "/home/lorenzo/Epic/UnrealEngine/Engine/Source"
+	},
+	{
+		"file": "/home/lorenzo/Documents/Unreal Projects/NetworkTest/Source/NetworkTest/NetworkTestWeaponComponent.h",
+		"arguments": [
+			"/home/lorenzo/Epic/UnrealEngine/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v23_clang-18.1.0-rockylinux8/x86_64-unknown-linux-gnu/bin/clang++",
+			"@/home/lorenzo/Documents/Unreal Projects/NetworkTest/.vscode/compileCommands_NetworkTest/NetworkTest.1.rsp"
+		],
+		"directory": "/home/lorenzo/Epic/UnrealEngine/Engine/Source"
+	}
+]
