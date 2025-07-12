@@ -1,4 +1,4 @@
-LINE1 =
+LINE1 = I belive I can fly
 LINE2 =
 LINE3 =
 LINE4 =
